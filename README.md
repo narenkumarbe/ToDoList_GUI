@@ -1,2 +1,2 @@
 # ToDoList_GUI_Python
-GUI with sqlite3 database
+GUI designed in Gooeypie with sqlite3 database
